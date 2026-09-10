@@ -1,0 +1,15 @@
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\bin\Debug\net8.0\while-01.exe
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\bin\Debug\net8.0\while-01.deps.json
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\bin\Debug\net8.0\while-01.runtimeconfig.json
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\bin\Debug\net8.0\while-01.dll
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\bin\Debug\net8.0\while-01.pdb
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\while-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\while-01.AssemblyInfoInputs.cache
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\while-01.AssemblyInfo.cs
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\while-01.csproj.CoreCompileInputs.cache
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\while-01.sourcelink.json
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\while-01.dll
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\refint\while-01.dll
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\while-01.pdb
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\while-01.genruntimeconfig.cache
+C:\Users\joao.pinto\Desktop\PAL\while-01\while-01\obj\Debug\net8.0\ref\while-01.dll

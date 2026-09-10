@@ -1,0 +1,14 @@
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\obj\Debug\net8.0\ExemploFor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\obj\Debug\net8.0\ExemploFor2.AssemblyInfoInputs.cache
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\obj\Debug\net8.0\ExemploFor2.AssemblyInfo.cs
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\obj\Debug\net8.0\ExemploFor2.csproj.CoreCompileInputs.cache
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\bin\Debug\net8.0\ExemploFor2.exe
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\bin\Debug\net8.0\ExemploFor2.deps.json
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\bin\Debug\net8.0\ExemploFor2.runtimeconfig.json
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\bin\Debug\net8.0\ExemploFor2.dll
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\bin\Debug\net8.0\ExemploFor2.pdb
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\obj\Debug\net8.0\ExemploFor2.dll
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\obj\Debug\net8.0\refint\ExemploFor2.dll
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\obj\Debug\net8.0\ExemploFor2.pdb
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\obj\Debug\net8.0\ExemploFor2.genruntimeconfig.cache
+C:\Users\joao.pinto\Desktop\PAL\ExemploFor2\ExemploFor2\obj\Debug\net8.0\ref\ExemploFor2.dll

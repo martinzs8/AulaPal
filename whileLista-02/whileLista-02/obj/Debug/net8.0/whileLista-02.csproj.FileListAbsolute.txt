@@ -1,0 +1,15 @@
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\whileLista-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\whileLista-02.AssemblyInfoInputs.cache
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\whileLista-02.AssemblyInfo.cs
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\whileLista-02.csproj.CoreCompileInputs.cache
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\whileLista-02.sourcelink.json
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\bin\Debug\net8.0\whileLista-02.exe
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\bin\Debug\net8.0\whileLista-02.deps.json
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\bin\Debug\net8.0\whileLista-02.runtimeconfig.json
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\bin\Debug\net8.0\whileLista-02.dll
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\bin\Debug\net8.0\whileLista-02.pdb
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\whileLista-02.dll
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\refint\whileLista-02.dll
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\whileLista-02.pdb
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\whileLista-02.genruntimeconfig.cache
+C:\Users\joao.pinto\Desktop\PAL\whileLista-02\whileLista-02\obj\Debug\net8.0\ref\whileLista-02.dll

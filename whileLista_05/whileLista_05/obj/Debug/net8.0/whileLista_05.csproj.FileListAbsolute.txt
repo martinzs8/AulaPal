@@ -1,0 +1,15 @@
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\bin\Debug\net8.0\whileLista_05.exe
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\bin\Debug\net8.0\whileLista_05.deps.json
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\bin\Debug\net8.0\whileLista_05.runtimeconfig.json
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\bin\Debug\net8.0\whileLista_05.dll
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\bin\Debug\net8.0\whileLista_05.pdb
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\whileLista_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\whileLista_05.AssemblyInfoInputs.cache
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\whileLista_05.AssemblyInfo.cs
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\whileLista_05.csproj.CoreCompileInputs.cache
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\whileLista_05.sourcelink.json
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\whileLista_05.dll
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\refint\whileLista_05.dll
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\whileLista_05.pdb
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\whileLista_05.genruntimeconfig.cache
+C:\Users\joao.pinto\Desktop\PAL\whileLista_05\whileLista_05\obj\Debug\net8.0\ref\whileLista_05.dll

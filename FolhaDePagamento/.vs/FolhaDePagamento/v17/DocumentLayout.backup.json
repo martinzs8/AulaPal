@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.pinto\\Desktop\\PAL\\FolhaDePagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42528A90-42C1-43D6-9F4B-7E3F72FAF9B2}|FolhaDePagamento\\FolhaDePagamento.csproj|c:\\users\\joao.pinto\\desktop\\pal\\folhadepagamento\\folhadepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42528A90-42C1-43D6-9F4B-7E3F72FAF9B2}|FolhaDePagamento\\FolhaDePagamento.csproj|solutionrelative:folhadepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.pinto\\Desktop\\PAL\\FolhaDePagamento\\FolhaDePagamento\\Program.cs",
+              "RelativeDocumentMoniker": "FolhaDePagamento\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.pinto\\Desktop\\PAL\\FolhaDePagamento\\FolhaDePagamento\\Program.cs*",
+              "RelativeToolTip": "FolhaDePagamento\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T12:56:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

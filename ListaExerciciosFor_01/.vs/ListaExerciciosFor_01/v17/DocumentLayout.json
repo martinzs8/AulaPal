@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.pinto\\Desktop\\PAL\\ListaExerciciosFor_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EA6960-9EEE-4B37-8022-3E89BB2C0871}|ListaExerciciosFor_01\\ListaExerciciosFor_01.csproj|c:\\users\\joao.pinto\\desktop\\pal\\listaexerciciosfor_01\\listaexerciciosfor_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EA6960-9EEE-4B37-8022-3E89BB2C0871}|ListaExerciciosFor_01\\ListaExerciciosFor_01.csproj|solutionrelative:listaexerciciosfor_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.pinto\\Desktop\\PAL\\ListaExerciciosFor_01\\ListaExerciciosFor_01\\Program.cs",
+              "RelativeDocumentMoniker": "ListaExerciciosFor_01\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.pinto\\Desktop\\PAL\\ListaExerciciosFor_01\\ListaExerciciosFor_01\\Program.cs",
+              "RelativeToolTip": "ListaExerciciosFor_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T17:52:11.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
